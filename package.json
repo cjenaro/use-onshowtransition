@@ -1,0 +1,9 @@
+{
+  "name": "@cjenaro/use-onshowtransition",
+  "version": "0.0.1",
+  "description": "React hook that animates using react-spring",
+  "main": "./use-onshowtransition.js",
+  "repository": "https://github.com/jenaro94/use-onshowtransition",
+  "author": "@jenaroc",
+  "license": "MIT"
+}
